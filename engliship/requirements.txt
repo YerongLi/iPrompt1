@@ -1,5 +1,6 @@
 pybind11
-torch
+torch=2.0.0
 six
 regex
 numpy
+deepspeed=0.3.16
